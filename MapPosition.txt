@@ -1,0 +1,11 @@
+Map Position Wrangled:  
+Tulsa, OK
+Mapzen Key:
+odes-agCKTKY
+My link:
+https://mapzen.com/data/metro-extracts/your-extracts/99a1c63e57ff
+Link to download raw OSM XML:
+https://s3.amazonaws.com/mapzen.odes/ex_HsHtLxQwZ2e4MjSRVh67BkZYBvVRQ.osm.bz2
+
+I chose Tulsa because is the metro area in which I am most familiar, 
+and it would not be very likely that someone else in the program would chose this area.
